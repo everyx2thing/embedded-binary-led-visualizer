@@ -1,4 +1,4 @@
-# Binary Number Visualizer — uC/OS-III 기반 임베디드 시스템
+# uC/OS-III 기반 임베디드 이진수 시각화 시스템
 
 숫자를 입력하면 2진수로 변환하여 LED로 표현하고, 2색 LED로 짝수/홀수를 시각화하는 교육용 임베디드 시스템
 
